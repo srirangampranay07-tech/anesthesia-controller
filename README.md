@@ -21,7 +21,7 @@ It monitors sensor values and adjusts drug delivery automatically:
 
 ## ▶️ Simulation
 Run using ModelSim / Vivado / Cadence
-
+https://github.com/srirangampranay07-tech/anesthesia-controller/blob/5d547a7f095fca166f51beaf7aae3a10c6848fd3/src/waveformpr.png
 ## 📊 Output Behavior
 | Sensor Value | Action |
 |-------------|--------|
